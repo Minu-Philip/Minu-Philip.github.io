@@ -14,11 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="{{ site.github.repository_url }}/Files/IMG_0655.jpg" alt="Logo" />
-        
-        {% if site.logo %}
-          <img src="{{ site.github.repository_url }}Files/IMG_0655.jpg" alt="Logo" />
-        {% endif %}
+        <img src="{{ post.url | prepend: site.baseurl }}Files/IMG_0655.jpg">
+
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
