@@ -1,3 +1,9 @@
+---
+title: About Me
+layout: template
+filename: About.md
+--- 
+
 # Minu Philip
 
 I am a 4th year Doctoral Student in the Department of Economics at New York University. 
