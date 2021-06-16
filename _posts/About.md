@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: template
+layout: default
 filename: About.md
 --- 
 
