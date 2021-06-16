@@ -1,6 +1,6 @@
 ---
 title: Teaching Assistantship
-layout: template
+layout: default
 filename: Teaching.md
 --- 
 
