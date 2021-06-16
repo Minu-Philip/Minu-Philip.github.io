@@ -1,3 +1,9 @@
+---
+title: Teaching Assistantship
+layout: template
+filename: Teaching.md
+--- 
+
 ### Teaching Assistantship
 
 <ul>
