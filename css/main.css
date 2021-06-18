@@ -1,8 +1,8 @@
 
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #123456; text-align:center; }
-a:hover { text-decoration: underline; }
+a { text-decoration: none; color: #999; }
+a:hover {text-decoration: underline; }
 
 p, ul { font-size: 1em; line-height: 1.4em; color: #333; }
 
@@ -27,8 +27,8 @@ a:link,a:visited
     margin-right: -4px;
     width:120px;
     font-weight:bold;
-    color:#FFFFFF;
-    background-color:#98bf21;
+    color:#12345;
+    background-color:None;
     text-align:center;
     padding:4px;
     text-decoration:none;
