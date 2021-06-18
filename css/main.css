@@ -12,15 +12,7 @@ h2 { font-size: 1.9em; }
 h3 { font-size: 1.5em; }
 h4 { font-size: 1.3em; }
 
-ul {
-    margin: 0;
-    padding: 0;
-    text-align: center
-}
-li {
-    display: inline;
-    list-style: none; 
-}
+
 a:link,a:visited
 {
     display:inline-block;
