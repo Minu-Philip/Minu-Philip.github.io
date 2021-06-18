@@ -1,4 +1,3 @@
-### Minu Philip
 
 I am a 4<sup>th</sup> year Doctoral Student in the Department of Economics at New York University. 
 
