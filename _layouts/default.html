@@ -32,7 +32,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <h1 style="text-align:center;"> Minu Philip </h1> 
     
-    <nav style="text-align:center; color: #324052">
+    <nav style="text-align:center; color: #324052" id="myTopnav">
       <ul>
         <li><a href="/">About</a></li>
         <li><a href="/Research">Research</a></li>
@@ -58,10 +58,10 @@
     <script>
 function myFunction() {
   var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
+  if (x.className === "nav") {
     x.className += " responsive";
   } else {
-    x.className = "topnav";
+    x.className = "nav";
   }
 }
 </script>
