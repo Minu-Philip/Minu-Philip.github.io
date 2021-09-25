@@ -70,7 +70,16 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 
 .topnav { overflow: hidden; }
-.topnav a { text-decoration: none; color: #324052; }
+/*.topnav a { text-decoration: none; color: #324052; } */
+.topnav a {
+  float: left;
+  display: block;
+  color: #324052;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 .topnav a:hover {text-decoration: underline; }
 .topnav .icon {display: none;}
 
