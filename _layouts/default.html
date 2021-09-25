@@ -32,7 +32,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <h1 style="text-align:center;"> Minu Philip </h1> 
     
-    <nav class = "nav" style="text-align:center; color: #324052" id="myTopnav">
+    <!-- <nav class = "nav" style="text-align:center; color: #324052" id="myTopnav">
       <ul>
         <li><a href="/">About</a></li>
         <li><a href="/Research">Research</a></li>
@@ -41,7 +41,18 @@
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i> </a>
       </ul>
-    </nav>
+    </nav> -->
+    
+    <div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
     <div class="divider div-transparent div-dot"></div>
     
     <div class="wrapper">
@@ -56,16 +67,17 @@
     </div>
     
     
-   <!-- <script>
+  
+<script>
 function myFunction() {
   var x = document.getElementById("myTopnav");
-  if (x.className === "nav") {
+  if (x.className === "topnav") {
     x.className += " responsive";
   } else {
-    x.className = "nav";
+    x.className = "topnav";
   }
 }
-</script> -->
+</script>
     
   </body>
  
