@@ -55,7 +55,7 @@ h4 { font-size: 1.3em; }
 nav ul, footer ul { font-size: 1.5em; font-family:  'Georgia', 'Times New Roman'; padding: 0px; list-style: none; font-weight: bold;  color: #324052 }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-/*@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
   nav a {
     float: none;
     display: block;
@@ -66,20 +66,11 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
   nav-right {
     float: none;
   }
-}*/
-
-
-.topnav { overflow: hidden; }
-/*.topnav a { text-decoration: none; color: #324052; } */
-.topnav a {
-  float: left;
-  display: block;
-  color: #324052;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
 }
+
+/*
+.topnav { overflow: hidden; }
+.topnav a { text-decoration: none; color: #324052; } 
 .topnav a:hover {text-decoration: underline; }
 .topnav .icon {display: none;}
 
@@ -103,7 +94,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
     display: block;
     text-align: left;
   }
-}
+}*/
 
 
 
