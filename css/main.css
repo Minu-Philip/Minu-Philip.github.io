@@ -68,22 +68,28 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
   }
 }*/
 
+
+.topnav { overflow: hidden; }
+.topnav a { text-decoration: none; color: #324052; }
+.topnav a:hover {text-decoration: underline; }
+.topnav .icon {display: none;}
+
 @media screen and (max-width: 600px) {
-  nav a:not(:first-child) {display: none;}
-  nav a.icon {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
     float: right;
     display: block;
   }
 }
 
 @media screen and (max-width: 600px) {
-  nav.responsive {position: relative;}
-  nav.responsive .icon {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
     position: absolute;
     right: 0;
     top: 0;
   }
-  nav.responsive a {
+  .topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
