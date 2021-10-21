@@ -95,6 +95,7 @@ nav select{
 .select-items {
   position: absolute;
   background-color: #ffffff;
+  padding: 8px 16px;
   top: 100%;
   left: 0;
   right: 0;
