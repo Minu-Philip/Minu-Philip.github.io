@@ -69,6 +69,15 @@ nav select{
         margin-top: -4px;}
 } 
 
+
+.select {
+	position:relative;
+	font-family:  'Georgia';
+	font-size: 1em;
+	font-weight: bold;
+	color: #324052
+}
+
 .select-selected {
   background-color: #ffffff ;
 }
