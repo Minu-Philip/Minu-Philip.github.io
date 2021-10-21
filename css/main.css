@@ -57,7 +57,7 @@ nav ul, footer ul { font-size: 1.5em; font-family:  'Georgia', 'Times New Roman'
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 
-nav select{
+myTopnav select{
 	display:none;
 }
 
