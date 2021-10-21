@@ -17,25 +17,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <h1 style="text-align:center;"> Minu Philip </h1>
     
-    <nav style="text-align:center; padding-bottom: 30px;">
-      <ul>
-        <li><a href="/">About</a></li>
+     <nav style="text-align:center; padding-bottom: 30px;">
+      <ul>
+        <li><a href="/">About</a></li>
         <li><a href="/Research">Research</a></li>
-        <li><a href="/Teaching">Teaching</a></li>
+        <li><a href="/Teaching">Teaching</a></li>
         <li><a href="/Contact">Contact</a></li>
-      </ul>
-      
+      </ul> 
+    
+    
+      <div class ="custom-select" style="width:200px;">
       <select onchange="location = this.value;">
       <option value =""selected="selected">Select</option>
-      <!-- <option value =""selected="/">About</option> -->
       <option value ="/">About</option>
       <option value ="/Research">Research</option>
       <option value ="/Teaching">Teaching</option>
       <option value ="/Contact">Contact</option>
-    </select> 
+    </select>
+       </div>
        
-      
-    </nav>
+    </nav>
+    
+    
     <div class="divider div-transparent div-dot"></div>
 
       {{ content }}
