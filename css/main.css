@@ -57,17 +57,17 @@ nav ul, footer ul { font-size: 1.5em; font-family:  'Georgia', 'Times New Roman'
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 
-nav select{
+#menuToggle{
 	display:none;
 }
 
 
-@media (max-width: 960px) {
+/* @media (max-width: 960px) {
 	nav ul {display:none;}
 	nav select {display:inline-block;
 	margin-bottom: -4px;
         margin-top: -4px;}
-}
+} */
 
 .select-selected {
   background-color: #ffffff ;
@@ -92,6 +92,8 @@ nav select{
   z-index: 99;
 }
 
+
+@media (max-width: 960px) {
 #menuToggle
 {
   display: block;
@@ -232,6 +234,8 @@ nav select{
 #menuToggle input:checked ~ ul
 {
   transform: none;
+}
+	
 }
 
 /*
