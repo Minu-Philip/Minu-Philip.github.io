@@ -70,12 +70,12 @@ nav select{
 } 
 
 
-.custom-select {
+/*.custom-select {
 	position:relative;
 	font-family:  'Georgia';
 	color: #324052;
 	justify-content: center;
-}
+}*/
 
 
 .select-selected {
