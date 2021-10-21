@@ -6,8 +6,7 @@ My research fields include *Applied Microeconomics* and *Development Economics*.
 
 <ul class="mylinks" style="list-style: none">
      <li><a href="Files/CV_PhilipMinu.pdf">[Curriculum Vitae]</a><li>
-     <li><a href="https://scholar.google.com/citations?user=yqwUdjkAAAAJ&hl=en">[Google Scholar]</a><li>
-</ul>
+     <li><a href="https://scholar.google.com/citations?user=yqwUdjkAAAAJ&hl=en">[Google Scholar]</a><li> </ul>
 
 
 
