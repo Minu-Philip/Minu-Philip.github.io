@@ -78,9 +78,6 @@ nav select{
 	color: #324052
 }
 
-.custom-select select{
-	display:none;
-}
 
 .select-selected {
   background-color: #ffffff ;
