@@ -1,5 +1,5 @@
 
-body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1.3em;}
+body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1em;}
 
 .divider
 {
@@ -41,7 +41,7 @@ a { text-decoration: none; color: #324052; }
 a:hover {text-decoration: underline; }
 a:focus {color: #29465b; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1em; line-height: 1.4em; color: #333; }
 
 
 
