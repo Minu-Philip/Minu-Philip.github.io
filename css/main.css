@@ -43,7 +43,7 @@ a:focus {color: #29465b; }
 
 p, ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
 
-.subtext {font-size:90%; color: #324052; margin-top: -30px; padding-bottom: 15px;}
+.subtext {font-size:90%; color: #324052; padding-top: -20px; padding-bottom: 20px;}
 /*#29465B */
 
 h1, h2, h3, h4 { font-family: 'Sans serif', 'Palatino Linotype','Georgia', 'Times New Roman' }
