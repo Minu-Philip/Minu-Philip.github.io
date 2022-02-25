@@ -61,7 +61,7 @@ h4 { font-size: 1.4em; }
 
 .collapsible {
   background-color: white;
-  color: #324052;
+  color: #29465b;
   cursor: pointer;
   padding: 10px 15px;
   width: 100%;
@@ -72,19 +72,16 @@ h4 { font-size: 1.4em; }
 }
 
 .button {
-  background-color: #324052;
   border: none;
   color: white;
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 10px;
-  border-radius: 12px;
 }
 
 .active, .collapsible:hover {
-  background-color: #29465b;
+  background-color: white;
 }
 
 .content {
