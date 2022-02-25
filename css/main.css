@@ -80,6 +80,12 @@ h4 { font-size: 1.4em; }
   display: inline-block;
 }
 
+.collapsible:before {
+    content: "»";
+    display: block;
+    clear: both;
+}
+
 .active, .collapsible:hover {
   background-color: white;
 }
