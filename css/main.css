@@ -75,11 +75,12 @@ h4 { font-size: 1.4em; }
   background-color: #324052;
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 10px;
+  font-size: 12px;
+  border-radius: 12px;
 }
 
 .active, .collapsible:hover {
