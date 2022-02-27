@@ -109,7 +109,8 @@ nav select{
 	nav select {display:inline-block;
 	margin-bottom: -4px;
         margin-top: -4px;
-	margin: auto}
+	margin: auto;
+	max-width: 90%;}
 } 
 
 
