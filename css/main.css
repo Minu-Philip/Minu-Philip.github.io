@@ -108,7 +108,8 @@ nav select{
 	nav ul {display:none;}
 	nav select {display:inline-block;
 	margin-bottom: -4px;
-        margin-top: -4px;}
+        margin-top: -4px;
+	margin: auto}
 } 
 
 
