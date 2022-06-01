@@ -102,7 +102,7 @@ nav select{
 	display:none;
 }
 
-/* Media Compatilibity */
+/* Media Compatilibity 
 
  @media (max-width: 960px) {
 	nav ul {display:none;}
