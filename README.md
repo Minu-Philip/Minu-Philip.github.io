@@ -1,7 +1,7 @@
 
 I am a Doctoral Student in the Department of Economics at New York University. 
 
-My research fields include *Applied Microeconomics*, *Development Economics* and *Behavioral Economics*. Broadly, my interests are in studying health and socio-economic choices or outcomes of individuals, and the effect of norms, identities, political economy or psychology in determining these.
+My research fields include *Applied Microeconomics*, *Development Economics* and *Behavioral Economics*. Broadly, my interests are in studying health and socio-economic choices/outcomes of individuals in developing countries, and the effect of norms, identities, political economy or psychology in determining these.
 
 
 <a href="Files/CV_PhilipMinu.pdf">[Curriculum Vitae]</a>
