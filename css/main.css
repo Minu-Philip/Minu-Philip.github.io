@@ -39,6 +39,14 @@ body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1.2em; zoom: 100
 					0 0 0 4px white;
 }
 
+img {
+  display: inline-block;
+  width: 40%;
+  height: auto;
+  margin-left: -2px;
+  box-sizing: border-box;
+}
+
 
 /* Fonts and Headings */
 
