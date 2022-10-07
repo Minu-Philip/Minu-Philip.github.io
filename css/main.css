@@ -87,7 +87,7 @@ h4 { font-size: 1.4em; }
 
 .content {
   padding: 0 18px;
-  display: inline-block;
+  display: none;
   overflow: hidden;
   background-color: #f1f1f1;
 }
