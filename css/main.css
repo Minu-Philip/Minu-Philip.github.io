@@ -39,9 +39,9 @@ body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1.2em; zoom: 100
 					0 0 0 4px white;
 }
 
-
-a.author:hover {text-decoration: underline; }
-a.author:focus {color: #000000; }
+.author {color: #FFFFF0}
+.author:hover {text-decoration: underline; }
+.author:focus {color: #000000; }
 
 /* Fonts and Headings */
 
