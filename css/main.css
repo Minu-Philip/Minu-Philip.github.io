@@ -39,7 +39,7 @@ body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1.2em; zoom: 100
 					0 0 0 4px white;
 }
 
-a.author{color: #FFFFF0}
+a.author {color: #FFFFF0}
 a.author:hover {text-decoration: underline; }
 a.author:focus {color: #000000; }
 
