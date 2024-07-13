@@ -1,5 +1,14 @@
 
-body { margin: 60px auto; width: 70%; color:#FFFFF0; font-size: 1.2em; zoom: 100%;}
+body { margin: 60px auto;
+      width: 70%;
+      color:#FFFFF0;
+      font-size: 1.2em;
+      zoom: 100%;
+      background-image: url('Files/17973908.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+}
 
 
 /* For Divider with dot */
