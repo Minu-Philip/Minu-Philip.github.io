@@ -1,6 +1,6 @@
 
 I am a doctoral candidate in the Department of Economics at New York University. 
-My research fields include *Applied Microeconomics*, *Development Economics*, and *Health Economics*. 
+My research fields include *Applied Microeconomics*, *Health Economics*, and *Development Economics*. 
 
 
 <b> I will be on the 2024-25 Job Market. </b>
