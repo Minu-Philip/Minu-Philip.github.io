@@ -72,7 +72,8 @@ h4 { font-size: 1.4em; }
 }
 
 
-/* For Collapsible Abstract */
+/* For Collapsible Abstract 
+padding- top right bottom left*/
 
 .collapsible {
   background-color: white;
@@ -101,7 +102,7 @@ h4 { font-size: 1.4em; }
 }
 
 .content {
-  padding: 18px 10px;
+  padding: 18px 3px 10px 3px;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
