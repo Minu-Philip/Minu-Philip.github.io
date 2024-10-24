@@ -51,7 +51,7 @@ body { margin: 60px auto;
 /* Fonts and Headings */
 
 a { text-decoration: none; color: #324052; }
-a:hover {text-decoration: underline; }
+<! -- a:hover {text-decoration: underline; } --> )
 a:focus {color: #29465b; }
 
 
@@ -75,7 +75,7 @@ h4 { font-size: 1.4em; }
   background-color: white;
   color: #29465b;
   cursor: pointer;
-  padding: 10px 15px;
+  padding: 15px 15px;
   width: 100%;
   border: none;
   text-align: left;
