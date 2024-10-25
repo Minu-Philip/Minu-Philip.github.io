@@ -56,6 +56,7 @@ a:focus {color: #29465b; } */
 
 
 p, ul { font-size: 1.2em; line-height: 1.4em; color: #333; }
+li {margin: 10px 0;}
 
 .subtext {font-size:90%; color:#7d90a0; padding-top: -20px; padding-bottom: 20px;}
 /*#29465B */
