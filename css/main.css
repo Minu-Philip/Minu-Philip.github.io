@@ -91,7 +91,7 @@ padding- top right bottom left*/
 .button {
   border: none;
   color: white;
-  padding: 10px 15px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -102,7 +102,7 @@ padding- top right bottom left*/
 }
 
 .content {
-  padding: 18px 10px;
+  padding: 10px 0px;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
