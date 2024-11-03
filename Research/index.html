@@ -13,7 +13,14 @@ layout: pages
        <br> <span class ="subtext"> Job Market Paper </span>
        <button type="button" class="collapsible"> » Abstract </button>
        <div class="content">
-         <p style="font-size:90%">  This paper studies racial disparity in stroke diagnosis at emergency departments. 
+         <p style="font-size:90%"> Strokes are roughly twice more likely to be missed among Black patients, with most of the disparity arising from physicians testing Black patients less often.
+           We develop a method to quantify the role of disparate treatment by physicians in driving this difference in testing.
+           Specifically, we leverage a unique feature of strokes: whether a patient actually had a stroke can be inferred retrospectively even if initially misdiagnosed.
+           This allows us to benchmark testing decisions against racially objective predictions of stroke risk made by a machine learning model trained on the true underlying stroke states.
+           We decompose disparate treatment into two forces: an unjustified skill gap, where physicians make noisier risk assessments for Black patients; and racial prejudice, where physicians are less likely to test Black patients conditional on their risk assessment.
+           Disparate treatment accounts for about 65% of the racial disparity in testing.
+           Removing racial prejudice would lower testing disparities by half.
+           <!--This paper studies racial disparity in stroke diagnosis at emergency departments. 
            The unique feature of this setting is that the underlying state of whether the patient actually had a stroke can be inferred retrospectively. 
            We find that strokes are roughly twice more likely to be missed among Black patients, with most of the disparity arising from physicians testing Black patients less often. 
            We then ask how much of this disparity comes from disparate treatment by physicians. 
@@ -21,7 +28,7 @@ layout: pages
            Physicians, however, infer disease risk based on signals such as symptoms or patient history that potentially vary in quality or informativeness across racial groups. 
            To facilitate cross-group comparisons, we benchmark testing decisions against objective algorithmic predictions of disease risk. 
            We show that disparate treatment accounts for about 60% of this racial disparity in testing, realized via two mechanisms: <i>unjustified skill gap</i>, wherein physicians make noisier risk assessments for Black patients, and <i>racial prejudice</i> in the canonical sense, where physicians apply differential thresholds. 
-           The two mechanisms are not only distinct conceptually but also have different implications for policy.
+           The two mechanisms are not only distinct conceptually but also have different implications for policy.-->
          </p>
        </div>
   </li>
