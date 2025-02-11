@@ -1,5 +1,5 @@
 
-I am a doctoral candidate in the Department of Economics at New York University. I will be joining the Department of Economics at Penn State University as an Assistant Professor in Fall 2025.
+I am a doctoral candidate in the Department of Economics at New York University. In Fall 2025, I will be joining the Department of Economics at Penn State University as an Assistant Professor.
 My research fields include *Applied Microeconomics*, *Health Economics*, and *Development Economics*. 
 
 
