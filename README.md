@@ -3,7 +3,6 @@ I am a doctoral candidate in the Department of Economics at New York University.
 My research fields include *Applied Microeconomics*, *Health Economics*, and *Development Economics*. 
 
 I am on the 2024-25 Job Market.
-
 <br> Click <a href="https://minu-philip.github.io/Research/">here </a> to view my research projects.
 <!-- My broad research interests are in studying health and socio-economic choices/outcomes of individuals in developing countries, as well as the role of norms, identities, political economy or psychology in shaping them. -->
 
