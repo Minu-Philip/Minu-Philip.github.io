@@ -8,7 +8,6 @@ I will be joining the Department of Economics at Penn State University as an Ass
 <!--
 <br> Click <a href="https://minu-philip.github.io/Research/">here </a> to view my research projects.
 -->
-
 <br><a href="https://scholar.google.com/citations?user=yqwUdjkAAAAJ&hl=en">Google Scholar</a>
 <br>
 
